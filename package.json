@@ -1,0 +1,16 @@
+{
+  "name": "my-fastify-app",
+  "version": "1.0.0",
+  "description": "Fastify app deployed to Azure",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fastify": "^4.0.0"
+  }
+}
